@@ -17,6 +17,4 @@ JavaScript · Node · React · PostgreSQL · Express · Linux · Docker
 ---
 
 ## 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) ·  
-[Email](mailto:andrea@andreabellini.co.uk) ·  
-[Film Portfolio](https://andreabellini.co.uk/)
+[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk) | [Film Portfolio](https://andreabellini.co.uk/) 
