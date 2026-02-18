@@ -2,8 +2,7 @@
 
 **Software Engineer | Former Post Production Lead @ Amazon**
 
-Engineer with 10 years in video editing and post-production, now working at the intersection of creative storytelling and the systems that power it.
-
+Software engineer with a decade in video editing and post-production, now focused on building systems for creative workflows.
 ---
 
 ## 🚀 Current Focus
