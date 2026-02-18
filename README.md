@@ -14,4 +14,4 @@ Currently completing the Northcoders full-stack bootcamp.
 
 
 #### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk) | [Film Portfolio](https://andreabellini.co.uk/) ive got this md can we make standout a bit more **Software Engineer | Former Post Production Lead @ Amazon**
+[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk) | [Film Portfolio](https://andreabellini.co.uk/) 
