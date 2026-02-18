@@ -22,7 +22,7 @@ I have ten years of experience in video editing and post-production management. 
 ---
 
 ### 🎓 Current Status
-* **Northcoders Full-Stack Bootcamp:** Currently completing intensive training in modern software development and TDD practices.
+**Northcoders Full-Stack Bootcamp:** Currently completing intensive training in modern software development
 
 ### 🔗 Connect with me
 [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL) | [Film Portfolio](YOUR_PORTFOLIO_URL)
