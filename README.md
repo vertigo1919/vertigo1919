@@ -1,9 +1,7 @@
 # Hi, I'm Andrea
 
-## Software Engineer
-### Former Post Production Lead @ Amazon
-
-I have a decade in video editing and post-production, I am now focused on building systems for creative workflows.
+**Software Engineer | Former Post Production Lead @ Amazon**
+With a decade in video editing and post-production, focused on building systems for creative workflows.
 
 
 ## 🛠 Stack & Focus
@@ -13,6 +11,5 @@ Linux · Docker · Proxmox · ZFS
 Currently completing the Northcoders full-stack bootcamp.
 
 
-
 ## 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk) | [Film Portfolio](https://andreabellini.co.uk/)
+[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk) | [Film Portfolio](https://andreabellini.co.uk/) ive got this md can we make standout a bit more **Software Engineer | Former Post Production Lead @ Amazon**
