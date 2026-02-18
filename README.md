@@ -18,4 +18,4 @@ I am a detail-oriented developer transitioning from a 10-year career in film pos
 * **DevOps/Infra:** Linux, Docker, Proxmox, Tailscale
 
 ### 🔗 Connect with me
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/andreabellinifilm/)) | [Email](mailto:andrea@andreabellini.co.uk)
+[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk)
