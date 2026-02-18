@@ -1,6 +1,7 @@
 # Hi, I'm Andrea 
 
 **Software Engineer | Former Post Production Lead @ Amazon**
+
 I am a developer transitioning from a 10-year career in film editing and post-production into software engineering. I moved into this sector to shift from managing film technical workflows to building the systems that power them. My background in editing gives me a unique perspective on the intersection of creative storytelling and the custom tooling required to deliver high-end video projects.
 
 ---
