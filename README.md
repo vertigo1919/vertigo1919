@@ -1,7 +1,7 @@
 # Hi, I'm Andrea
 
 ### Software Engineer
-###Former Post Production Lead @ Amazon
+### Former Post Production Lead @ Amazon
 
 With a decade in video editing and post-production, focused on building systems for creative workflows.
 
