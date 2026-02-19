@@ -18,6 +18,8 @@ I have ten years of experience in video editing and post-production management. 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=Proxmox&logoColor=white)
 ![ZFS](https://img.shields.io/badge/ZFS-005EAC?style=for-the-badge&logo=ZFS&logoColor=white)
+![OpenMediaVault](https://img.shields.io/badge/OpenMediaVault-3399cc?style=for-the-badge&logo=openmediavault&logoColor=white)
+![Checkmk](https://img.shields.io/badge/Checkmk-ffcc33?style=for-the-badge&logo=checkmk&logoColor=black)
 
 ---
 
