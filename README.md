@@ -27,4 +27,4 @@ I have ten years of experience in video editing and post-production management. 
 **Northcoders Full-Stack Bootcamp:** Currently completing intensive training in modern software development.
 
 ### 🔗 Connect with me
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL) | [Film Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/andreabellinifilm/) | [Email](mailto:andrea@andreabellini.co.uk) | [Film Portfolio](https://andreabellini.co.uk/)
